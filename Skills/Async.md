@@ -1,41 +1,41 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
-  - try..catch: 👂 heard
+  - Event loop: 🎓 known
+  - try..catch: 🎓 known
   - Non-blocking
   - Async I/O
-  - Thread pool
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports: 👂 heard
-  - Event ports: 👂 heard
+  - Completion ports: 🎓 known
+  - Event ports: 🎓 known
   - libuv
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming: 👂 heard
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks: 👂 heard
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise: 👂 heard
-  - Async/await: 👂 heard
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event: 👂 heard
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
-  - Signal: 👂 heard
+  - Signal: 🎓 known
   - Stream
   - Chain of responsibility
   - Middleware
@@ -47,20 +47,20 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter: 👂 heard
+  - EventEmitter: 🎓 known
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
+  - Timers: 🎓 known
+  - setImmediate: 🎓 known
   - nextTick
   - AbortController
   - AbortSignal
@@ -84,10 +84,10 @@
   - async.js library
   - RxJS library
   - Async composition
-  - Promise.all
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API

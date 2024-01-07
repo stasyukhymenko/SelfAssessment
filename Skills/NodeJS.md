@@ -8,10 +8,10 @@
   - Event loop: microtasks and macrotasks
   - Garbage collection: 👂 heard
   - Node.js LTS schedule: 🎓 known
-  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
-  - Interactive applications (close to real-time): 👂 heard
+  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
+  - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
+  - CommonJS modules: 🎓 known
   - ECMAScript modules: 👂 heard
   - node:module: 🖐️ used
   - Caching in CJS and ESM: 👂 heard
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments: 🎓 known
-  - Node.js CLI: 👂 heard
+  - Node.js CLI: 🎓 known
   - Process-based permissions: 🎓 known
   - Graceful shutdown
   - Clustering
@@ -44,8 +44,8 @@
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks: 🎓 known
-  - AsyncLocalStorage: 👂 heard
-  - AsyncResource: 👂 heard
+  - AsyncLocalStorage: 🎓 known
+  - AsyncResource: 🎓 known
   - Deprecated domain API
   - Node.js single executable: 🎓 known
   - Stream back pressure
@@ -58,7 +58,7 @@
   - node:url vs new URL: 👂 heard
   - node:assert: 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer: 👂 heard
+  - Blob, File, Buffer, node:buffer: 🎓 known
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP: 👂 heard
-  - SOLID: 👂 heard
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
