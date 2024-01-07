@@ -11,7 +11,7 @@
   - Object-based programming: 👂 heard
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
-  - Asyncronous programming: 👂 heard
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive): 👂 heard
@@ -21,30 +21,30 @@
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
 - OOP basics
-  - constructor: 👂 heard
-  - new: 👂 heard
-  - Static method: 👂 heard
-  - Method: 👂 heard
-  - Async method: 👂 heard
-  - Getters, Setters: 👂 heard
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
-  - Field declarations: 👂 heard
-  - Inheritance: 👂 heard
-  - Parent class: 👂 heard
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
-  - Interface: 👂 heard
-  - Encapsulation: 👂 heard
-  - Hidden class: 👂 heard
-  - Object form: 👂 heard
-  - instance: 👂 heard
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
   - Adapter
   - Observer
   - Strategy
